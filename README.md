@@ -1,2 +1,4 @@
-# privacy_policies_app
-Page to host privacy policies of different apps
+# Privacy Policy
+
+## Apps
+- [VR Compatibility Checker](http://pavi2410.github.io/privacy_policy/VR)
