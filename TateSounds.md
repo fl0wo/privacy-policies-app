@@ -1,11 +1,11 @@
 ---
-title: PRIVACY POLICY : VR Compatibility Checker
+title: PRIVACY POLICY : Tate Sounds
 ---
 
-PRIVACY POLICY : VR Compatibility Checker
+PRIVACY POLICY : Tate Sounds
 ---
 
-This privacy policy governs your use of the software application VR Compatibility Checker (“Application”) for mobile devices that was created by {{ site.owner_name }}. The Application provides compatibility information on whether your device is ready for Virtual Reality or not. 
+This privacy policy governs your use of the software application Tate Sounds (“Application”) for mobile devices that was created by {{ site.owner_name }}. The Application provides compatibility information on whether your device is ready for Media Player or not. 
 
 ### What information does the Application obtain and how is it used?
 
@@ -33,7 +33,7 @@ We may disclose User Provided and Automatically Collected Information:
 
 ### Data Collection and Advertising
 
-I do not collect any kind of data for analytical and/or advertisement purposes.
+I do not directly collect any kind of data for analytical and/or advertisement purposes.
 
 ### What are my opt-out rights?
 
